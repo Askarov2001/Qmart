@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351540992092",
+    "firebase_url": "https://qmartapp-e3084-default-rtdb.firebaseio.com",
+    "project_id": "qmartapp-e3084",
+    "storage_bucket": "qmartapp-e3084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351540992092:android:c38bd367a510c0edb12e99",
+        "android_client_info": {
+          "package_name": "com.qmart.qmartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351540992092-faui067grcp1k1u1btfecrj4u7sujrsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qmart.qmartapp",
+            "certificate_hash": "b60bb7698c055bcb8c3a948918acbf5c4529000e"
+          }
+        },
+        {
+          "client_id": "351540992092-psmu7263r4tedn7s4jn6simcqj9nbro2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKNPgdK6gglFoBZVqLvaBu_Ez7iFBkS5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351540992092-psmu7263r4tedn7s4jn6simcqj9nbro2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
